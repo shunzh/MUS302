@@ -2,14 +2,14 @@
 
 Melody
 - pitch (one thing)
-- interval (e.g. 1, 4)
+- interval (conjunct or disjunct, e.g. 1, 4)
 - scale (e.g. 1234567)
 
 Time
-beat
-rhythm
-meter (duple, triple)
-tempo
+- beat : constant, background, "grid"
+- rhythm : temporal groups that occur around the beat
+- meter (duple, triple)
+- tempo : speed of the beat
 
 Harmony
 - result of two pitches sounding simultanously
