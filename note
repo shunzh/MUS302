@@ -3,11 +3,14 @@
 Melody
 - pitch (one thing)
 - interval (conjunct or disjunct, e.g. 1, 4)
+- range (span of pitches)
 - scale (e.g. 1234567)
+(melody: succession of pitches we perceive as an organizable whole)
 
 Time
 - beat : constant, background, "grid"
 - rhythm : temporal groups that occur around the beat
+           the movement of music in time.
 - meter (duple, triple)
 - tempo : speed of the beat
 
